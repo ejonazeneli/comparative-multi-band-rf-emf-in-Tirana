@@ -1,0 +1,9 @@
+xyzservices>=2023.10
+scipy>=1.11
+numpy>=1.26
+pandas>=2.0
+shapely>=2.0
+pyproj>=3.6
+contextily>=1.5
+matplotlib>=3.8
+geopandas>=0.14
